@@ -1,31 +1,17 @@
-<<<<<<< HEAD
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# My First Web Page - Not Really
+
+Welcome to my first project. Below describes what this project does.
+
+##### Project Name:
+hello-world
+##### Project Description:
+This project has links that takes you to Wikipedia pages of some of the latest web technologies in use today and displays their logos
+##### Author:
+Michael R. Brown
+##### Date:
+12/05/2018
+##### Technologies used:
+CSS, HTML, Git, GitHub
 
 
-Hi there! Welcome to Cloud9 IDE!
 
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
-=======
-# my-first-website
-This is the repository for my first web site
->>>>>>> 43fed1b3d9364ad9399f3447bbbae56482d4eead
